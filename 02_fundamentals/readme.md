@@ -1,5 +1,28 @@
 # Fundamentals PHP
 
+## Conditionals
+
+```php
+
+if (condition) {
+  # code...
+} else {
+  # code...
+}
+?>
+
+<?php if (condition) : ?>
+
+<?php elseif (condition) : ?>
+
+<?php elseif (condition) : ?>
+
+<?php else : ?>
+
+<?php endif ?>
+
+```
+
 ## Array
 
 ### numeric Array
